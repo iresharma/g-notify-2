@@ -13,4 +13,8 @@
   margin: 0;
   overflow-x: hidden
 }
+
+.wrapper {
+  padding: 2em;
+}
 </style>

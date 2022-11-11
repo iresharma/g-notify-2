@@ -13,6 +13,7 @@
     "sass-loader": "^10.3.1"
   },
   "dependencies": {
-    "element-plus": "^2.2.20"
+    "element-plus": "^2.2.20",
+    "vue-sidebar-menu-akahon": "^0.1.4"
   }
 }
