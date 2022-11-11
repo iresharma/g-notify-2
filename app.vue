@@ -11,7 +11,7 @@
   font-family: "Poppins", sans-serif;
   padding: 0;
   margin: 0;
-  overflow-x: hidden
+  overflow-x: hidden;
 }
 
 .wrapper {

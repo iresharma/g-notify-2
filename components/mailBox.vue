@@ -25,16 +25,16 @@
 
 <style lang="scss" scoped>
 .mail-box {
-    height: 393px;
+    height: 45vh;
     width: 307px;
     border-radius: 24px;
     
     .img {
-        height: 60%;
+        height: 25vh;
     }
     
     .info-box {
-        height: 40%;
+        height: 15vh;
         border-bottom-left-radius: 24px;
         border-bottom-right-radius: 24px;
 

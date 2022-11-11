@@ -36,6 +36,7 @@
   }
 
   .right-container {
+    margin-right: 5em;
     img {
       height: 1em;
     }
