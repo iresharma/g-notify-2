@@ -12,4 +12,8 @@
   padding: 0;
   margin: 0;
 }
+
+.wrapper {
+  padding: 2em;
+}
 </style>
