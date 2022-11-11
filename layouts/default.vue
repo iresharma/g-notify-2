@@ -2,7 +2,7 @@
   <div class="common-layout">
     <el-container>
       <Navbar />
-      <el-main>
+      <el-main style="height: calc(100vh - 12vh); overflowY: scroll; overflowY: hidden;">
         <slot />
       </el-main>
       <el-footer>
