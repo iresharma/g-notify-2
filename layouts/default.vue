@@ -1,15 +1,12 @@
 <template>
   <div class="common-layout">
-    <el-container>
+    <el-container style="flex-direction: column;">
       <Navbar />
-      <el-main style="height: calc(100vh - 12vh); overflowY: scroll; overflowY: hidden;">
+      <el-main style="height: calc(100vh - 12vh);">
         <slot />
       </el-main>
-      <el-footer>
-        <slot name="Footer">
-            Footer
-        </slot>
-      </el-footer>
+      <Footer />
     </el-container>
   </div>
 </template>
+
