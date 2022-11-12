@@ -2,7 +2,7 @@
   <div>
     <Navbar />
 
-    <el-row class="tac">
+    <el-row class="tac" style="margin-top: 7vh">
       <el-col :span="5">
         <h5 class="mb-2"></h5>
         <el-menu
@@ -10,7 +10,7 @@
           class="el-menu-vertical-demo"
           @open="handleOpen"
           @close="handleClose"
-          style="position: fixed; height: 100vh; width: 20vw; border: none; background-color: #212124;"
+          style="position: fixed; height: 100vh; width: 20vw; border: none; background-color: #212124; padding-top: 2vh;"
         >
           <el-menu-item index="1">
             <el-icon>

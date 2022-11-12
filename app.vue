@@ -16,5 +16,7 @@
 
 .wrapper {
   padding: 2em;
+  /* margin-top: 7vh; */
+  min-height: 98vh;
 }
 </style>

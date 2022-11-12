@@ -17,7 +17,7 @@
 .navbar {
   width: 100vw;
   height: 7vh;
-  position: sticky;
+  position: fixed;
   top: 0;
 
   display: flex;
